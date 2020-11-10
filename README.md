@@ -3,7 +3,7 @@
 This repository contains workshops, projects, notes, and other course work.
 
 ### Finished Workshops
-- [x] WS01 - Palindrome Tester
+- [x] WS01 - Palindrome Tester (Encapsulation and Abstraction)
 - [x] WS02 - Class Templates (Inheritance, Polymorphism, Exception Handling)
 - [x] WS03 - Class Templates + Object Array Filtering
 - [x] WS04 - Object Serialization 
