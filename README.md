@@ -8,5 +8,6 @@ This repository contains workshops, projects, notes, and other course work.
 - [x] WS03 - Class Templates + Object Array Filtering
 - [x] WS04 - Object Serialization 
 - [x] WS05 - Object Serialization + JavaFX GUI
+- [x] WS06 - Functional Programming + Lambda Expressions
 
 You are free to use my code as a reference. Please do not copy them directly. 
